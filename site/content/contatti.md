@@ -1,8 +1,8 @@
 ---
-title: Home page
+title: Contatti
 authorbox: false
 sidebar: false
 menu: main
 ---
 
-Informazioni generali sul blog
+Pagina dei contatti
