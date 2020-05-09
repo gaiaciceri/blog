@@ -1,7 +1,6 @@
 ---
-title: Home page
+title: About
 authorbox: false
-sidebar: false
 menu: main
 ---
 
