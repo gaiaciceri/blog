@@ -2,7 +2,7 @@ baseurl = "/"
 title = "Observer or observed?"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-theme = "manroad"
+theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
