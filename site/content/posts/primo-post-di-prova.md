@@ -1,6 +1,12 @@
 ---
 title: Primo post di prova
 date: 2020-05-09T22:20:25.202Z
+categories:
+  - prova
+tags:
+  - pizza
+  - pasta
+  - pokemon
 ---
 Ciao ciao
 
