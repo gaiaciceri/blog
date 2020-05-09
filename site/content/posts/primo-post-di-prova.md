@@ -10,6 +10,6 @@ tags:
 ---
 Ciao ciao
 
-![pikachu](img/252-2524315_tumblr-cute-kawaii-pikachu-sticker-tumblr-png-transparent.png "Una immagine di pikachu pucciosa")
+![pikachu](/img/252-2524315_tumblr-cute-kawaii-pikachu-sticker-tumblr-png-transparent.png "Una immagine di pikachu pucciosa")
 
 Questo e' il corpo pero'
